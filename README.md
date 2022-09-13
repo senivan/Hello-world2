@@ -1,2 +1,2 @@
-# Hello-world2
+# Hello-world
 https://senivan.github.io/Hello-world2/
